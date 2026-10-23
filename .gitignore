@@ -7,3 +7,5 @@ env/
 *.zip
 *.exe
 .DS_Store
+*.jpg
+*.jpeg
